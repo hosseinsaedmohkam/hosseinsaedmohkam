@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/hosseinsaedmohkam](https://github.com/hosseinsaedmohkam)
 
-- 💬 Ask me about **html5,css,React,javascript**
+- 💬 Ask me about **html5, css, React, javascript**
 
 - 📫 How to reach me **hossein.saedmohkam@gmail.com**
 
