@@ -31,25 +31,4 @@
 
 <br/>
 
-## 📊 GitHub Stats :
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoseinmohammadi-dev&layout=compact&theme=holi)
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hoseinmohammadi-dev&show_icons=true&theme=holi)
-
-
-<br/>
-
-## 🏆 GitHub Trophies :
-![](https://github-profile-trophy.vercel.app/?username=hoseinmohammadi-dev&theme=radical&no-frame=true&no-bg=false&center=true&margin-w=4)
-<p align="left" > <img src="https://komarev.com/ghpvc/?username=hoseinmohammadi-dev&label=Profile%20views&color=0e75b6&style=flat" alt="hoseinmohammadi-dev"  /> </p>
-
-<a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=821FF7&height=120&section=footer"/>
-</a>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hosseinsaedmohkam&show_icons=true&locale=en&layout=compact" alt="hosseinsaedmohkam" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hosseinsaedmohkam&show_icons=true&locale=en" alt="hosseinsaedmohkam" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hosseinsaedmohkam&" alt="hosseinsaedmohkam" /></p>
