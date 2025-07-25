@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hossein Saedmohkam</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 <div align="center" >
-  <img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="600">
+  <img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="500">
 </div>
-
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hosseinsaedmohkam&label=Profile%20views&color=0e75b6&style=flat" alt="hosseinsaedmohkam" /> </p>
 
